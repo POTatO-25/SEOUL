@@ -10,22 +10,7 @@
 * 기간: 2024.11.26 ~ 2024.12.19
 * 팀원: 백엔드 5명
 * 사용기술: Java, Spring, MariaDB, MyBatis, React, Node.js
-* 담당: 어린이 파트 (100%)
+* 담당: 건강 파트
 
 ## 담당 기능
-어린이관련 시설물 데이터를 선정, 수집하여 지도에서 위치와 상세정보를 보여줌.
 
-
-* 실시간 검색으로 옵션이 변할 때 자동으로 서버에 요청을 보냄
-* 페이지의 첫 번째 시설로 기본 포커스됨. 이후 목록에서 선택한 시설로 포커스 됨
-![1번](https://github.com/hankookin123/Seoul/blob/main/img01.gif)
-
-
-* 지도에서 오버레이 클릭 시 시설물 상세 정보 확인 가능
-* 상세정보 데이터는 오버레이를 클릭할 때 서버에서 받아옴
-![2번](https://github.com/hankookin123/Seoul/blob/main/img02.gif)
-
-
-* 공공데이터로는 모든 정보를 알 수 없어 시설물 관리 페이지로 이동하는 편의성을 제공함
-* 데이터 셋에 시설물ID를 이용하여 해당 시설 페이지로 바로 이동
-![3번](https://github.com/hankookin123/Seoul/blob/main/img03.gif)
